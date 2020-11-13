@@ -8,8 +8,11 @@
   ],
   "main": "src/index.js",
   "dependencies": {
+    "expo-constants": "~9.2.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
+    "react-native": "0.63.3",
+    "react-native-paper": "3.6.0",
     "react-scripts": "3.4.3"
   },
   "devDependencies": {

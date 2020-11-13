@@ -1,0 +1,2 @@
+# ClickerMania
+Created with CodeSandbox

@@ -1,0 +1,23 @@
+.cell {
+  width: 10px;
+  height: 10px;
+  background: #ffffff;
+  border: 1px solid #ffffff;
+  cursor: pointer;
+  font-size: 10px;
+}
+
+.one {
+  background: #74d278;
+  border: 1px solid#74d278;
+}
+
+.two {
+  background: rgb(150, 114, 231);
+  border: 1px solid rgb(150, 114, 231);
+}
+
+.tree {
+  background: #ff5959;
+  border: 1px solid #ff5959;
+}

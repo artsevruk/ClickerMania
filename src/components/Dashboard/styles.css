@@ -1,0 +1,9 @@
+.dashboard {
+  border: 1px solid grey;
+  width: 120px;
+  height: 120px;
+}
+
+.row {
+  display: flex;
+}
